@@ -81,7 +81,7 @@ def get_confession(first, chap, start, stop):
      33:3}
     doc = {
     1: {
-        0: 'Chapter I. Of the Holy Scripture',
+        0: 'Chapter 1. Of the Holy Scripture',
         1:'Although the light of nature, and the works of creation and '
           'providence, do so far manifest the goodness, wisdom, and power of '
           'God, as to leave men inexcusable; yet are they not sufficient to '
@@ -158,19 +158,19 @@ def get_confession(first, chap, start, stop):
           'only the learned, but the unlearned, in a due use of the ordinary '
           'means, may attain unto a sufficient understanding of them.',
          8:
-          'The Old Testament in Hebrew (which was the native language of'
-          ' the people of God of old), and the New Testament in Greek (which, at'
-          ' the time of the writing of it, was most generally known to the nations),'
-          ' being immediately inspired by God, and, by His singular care and'
-          ' providence, kept pure in all ages, are therefore authentical; so as, in'
-          ' all controversies of religion, the Church is finally to appeal unto them.'
-          ' But, because these original tongues are not known to all the people of God,'
-          ' who have right unto, and interest in the Scriptures, and are commanded, in'
-          ' the fear of God, to read and search them, therefore they are to be translated'
-          ' in to the vulgar language of every nation unto which they come, that, the'
-          ' Word of God dwelling plentifully in all, they may worship Him in an'
-          ' acceptable manner; and, through patience and comfort of the Scriptures, may'
-          ' have hope.',
+          'The Old Testament in Hebrew (which was the native language of '
+          'the people of God of old), and the New Testament in Greek (which, at '
+          'the time of the writing of it, was most generally known to the nations), '
+          'being immediately inspired by God, and, by His singular care and '
+          'providence, kept pure in all ages, are therefore authentical; so as, in '
+          'all controversies of religion, the Church is finally to appeal unto them. '
+          'But, because these original tongues are not known to all the people of God, '
+          'who have right unto, and interest in the Scriptures, and are commanded, in '
+          'the fear of God, to read and search them, therefore they are to be translated '
+          'in to the vulgar language of every nation unto which they come, that, the '
+          'Word of God dwelling plentifully in all, they may worship Him in an '
+          'acceptable manner; and, through patience and comfort of the Scriptures, may '
+          'have hope.',
          9:
           'The infallible rule of interpretation of Scripture, is the '
           'Scripture itself; and therefore, when there is a question about the '
@@ -185,7 +185,7 @@ def get_confession(first, chap, start, stop):
           'Spirit speaking in the Scripture.'},
      2: {
          0:
-          'Chapter II. Of God, and of the Holy Trinity',
+          'Chapter 2. Of God, and of the Holy Trinity',
          1:
           'There is but one only living and true God, who is infinite in '
           'being and perfection, a most pure spirit, invisible, without body, '
@@ -220,7 +220,7 @@ def get_confession(first, chap, start, stop):
           'Ghost eternally proceeding from the Father and the Son.'},
      3: {
          0:
-          "Chapter III. Of God's Eternal Decree",
+          "Chapter 3. Of God's Eternal Decree",
          1:
           'God from all eternity did by the most wise and holy counsel of '
           'his own will, freely and unchangeably ordain whatsoever comes to '
@@ -267,16 +267,16 @@ def get_confession(first, chap, start, stop):
           'dishonor and wrath for their sin, to the praise of his glorious '
           'justice.',
          8:
-          'The doctrine of this high mystery of predestination is to'
-          ' be handled with special prudence and care, that men, attending the'
-          ' will of God revealed in His Word, and yielding obedience thereunto,'
-          ' may, from the certainty of their effectual vocation, be assured of'
-          ' their eternal election. So shall this doctrine afford matter of'
-          ' praise, reverence, and admiration of God; and of humility, diligence,'
-          ' and abundant consolation to all that sincerely obey the Gospel.'},
+          'The doctrine of this high mystery of predestination is to '
+          'be handled with special prudence and care, that men, attending the '
+          'will of God revealed in His Word, and yielding obedience thereunto, '
+          'may, from the certainty of their effectual vocation, be assured of '
+          'their eternal election. So shall this doctrine afford matter of '
+          'praise, reverence, and admiration of God; and of humility, diligence, '
+          'and abundant consolation to all that sincerely obey the Gospel.'},
      4: {
          0:
-          'Chapter IV. Of Creation',
+          'Chapter 4. Of Creation',
          1:
           'It pleased God the Father, Son, and Holy Ghost, for the '
           'manifestation of the glory of his eternal power, wisdom, and '
@@ -296,7 +296,7 @@ def get_confession(first, chap, start, stop):
           'the creatures.'},
      5: {
          0:
-          'Chapter V. Of Providence',
+          'Chapter 5. Of Providence',
          1:
           'God, the great Creator of all things, doth uphold, direct '
           'dispose, and govern all creatures, actions, and things, from the '
@@ -349,7 +349,7 @@ def get_confession(first, chap, start, stop):
           'Church, and disposeth all things to the good thereof.'},
      6: {
          0:
-          'Chapter VI. Of the Fall of Man, of Sin, and of the Punishment thereof',
+          'Chapter 6. Of the Fall of Man, of Sin, and of the Punishment thereof',
          1:
           'Our first parents, begin seduced by the subtlety and temptations '
           'of Satan, sinned in eating the forbidden fruit. This their sin God '
@@ -380,7 +380,7 @@ def get_confession(first, chap, start, stop):
           'death, with all miseries spiritual, temporal, and eternal.'},
      7: {
          0:
-          "Chapter VII. Of God's Covenant with Man",
+          "Chapter 7. Of God's Covenant with Man",
          1:
           'The distance between God and the creature is so great, that '
           'although reasonable creatures do owe obedience unto him as their '
@@ -428,7 +428,7 @@ def get_confession(first, chap, start, stop):
           'dispensations.'},
      8: {
          0:
-          'Chapter VIII. Of Christ the Mediator',
+          'Chapter 8. Of Christ the Mediator',
          1:
           'It pleased God, in his eternal purpose, to choose and ordain the '
           'Lord Jesus, his only-begotten Son, to be the Mediator between God '
@@ -492,17 +492,17 @@ def get_confession(first, chap, start, stop):
           'nature is sometimes, in Scripture, attributed to the person '
           'denominated by the other nature.',
          8:
-          'To all those for whom Christ has purchased redemption, He does'
-          ' certainly and effectually apply and communicate the same; making'
-          ' intercession for them, and revealing unto them, in and by the word,'
-          ' the mysteries of salvation; effectually persuading them by His Spirit'
-          ' to believe and obey, and governing their hearts by His word and Spirit;'
-          ' overcoming all their enemies by His almighty power and wisdom, in such'
-          ' manner, and ways, as are most consonant to His wonderful and unsearchable'
-          ' dispensation.'},
+          'To all those for whom Christ has purchased redemption, He does '
+          'certainly and effectually apply and communicate the same; making '
+          'intercession for them, and revealing unto them, in and by the word, '
+          'the mysteries of salvation; effectually persuading them by His Spirit '
+          'to believe and obey, and governing their hearts by His word and Spirit; '
+          'overcoming all their enemies by His almighty power and wisdom, in such '
+          'manner, and ways, as are most consonant to His wonderful and unsearchable '
+          'dispensation.'},
      9: {
          0:
-          'Chapter IX. Of Free Will',
+          'Chapter 9. Of Free Will',
          1:
           'God hath endued the will of man with that natural liberty, that '
           'is neither forced, nor by any absolute necessity of nature '
@@ -529,7 +529,7 @@ def get_confession(first, chap, start, stop):
           'alone, in the state of glory only.'},
      10: {
          0:
-          'Chapter X. Of Effectual Calling',
+          'Chapter 10. Of Effectual Calling',
          1:
            'All those whom God hath predestinated unto life, and those '
            'only, he is pleased, in his appointed and accepted time, '
@@ -542,7 +542,7 @@ def get_confession(first, chap, start, stop):
            'good; and effectually drawing them to Jesus Christ; yet so as they '
            'come most freely, being made willing by his grace.',
           2:
-           "II. This effectual call is of God's free and special grace alone, "
+           "This effectual call is of God's free and special grace alone, "
            'not from any thing at all foreseen in man, who is altogether '
            'passive therein, until, being quickened and renewed by the Holy '
            'Spirit, he is thereby enabled to answer this call, and to embrace '
@@ -563,7 +563,7 @@ def get_confession(first, chap, start, stop):
            'maintain that they may is without warrant of the Word of God.'},
      11: {
          0:
-          'Chapter XI. Of Justification',
+          'Chapter 11. Of Justification',
          1:
            'Those whom God effectually calleth, he also freely justifieth: '
            'not by infusing righteousness into them, but by pardoning their '
@@ -608,19 +608,19 @@ def get_confession(first, chap, start, stop):
            'believers under the New Testament.'},
      12: {
          0:
-           'Chapter XII. Of Adoption',
+           'Chapter 12. Of Adoption',
          1:
-           'All those that are justified, God vouchsafes, in and for His only'
-           ' Son Jesus Christ, to make partakers of the grace of adoption, by which'
-           ' they are taken into the number, and enjoy the liberties and privileges'
-           ' of the children of God, have His name put upon them, receive the spirit'
-           ' of adoption, have access to the throne of grace with boldness, are enabled'
-           ' to cry, Abba, Father, are pitied, protected, provided for, and chastened'
-           ' by Him as by a Father: yet never cast off, but sealed to the day of'
-           ' redemption; and inherit the promises, as heirs of everlasting salvation.'},
+           'All those that are justified, God vouchsafes, in and for His only '
+           'Son Jesus Christ, to make partakers of the grace of adoption, by which '
+           'they are taken into the number, and enjoy the liberties and privileges '
+           'of the children of God, have His name put upon them, receive the spirit '
+           'of adoption, have access to the throne of grace with boldness, are enabled '
+           'to cry, Abba, Father, are pitied, protected, provided for, and chastened '
+           'by Him as by a Father: yet never cast off, but sealed to the day of '
+           'redemption; and inherit the promises, as heirs of everlasting salvation.'},
      13: {
          0:
-           'Chapter XIII. Of Sanctification',
+           'Chapter 13. Of Sanctification',
          1:
            'They who are effectually called and regenerated, having a new '
            'heart and a new spirit created in them, are further sanctified, '
@@ -645,7 +645,7 @@ def get_confession(first, chap, start, stop):
            'the fear of God.'},
      14: {
          0:
-           'Chapter XIV. Of Saving Faith',
+           'Chapter 14. Of Saving Faith',
          1:
            'The grace of faith, whereby the elect are enabled to believe to '
            'the saving of their souls, is the work of the Spirit of Christ in '
@@ -669,7 +669,7 @@ def get_confession(first, chap, start, stop):
            'Christ, who is both the author and finisher of our faith.'},
      15: {
          0:
-           'Chapter XV. Of Repentance Unto Life',
+           'Chapter 15. Of Repentance Unto Life',
          1:
            'Repentance unto life is an evangelical grace, the doctrine '
            'whereof is to be preached by every minister of the gospel, as well '
@@ -705,13 +705,13 @@ def get_confession(first, chap, start, stop):
            'reconciled to him, and in love to receive him.'},
      16: {
           0:
-           'Chapter XVI. Of Good Works',
+           'Chapter 16. Of Good Works',
           1:
            'Good works are only such as God hath commanded in his holy '
            'Word, and not such as, without the warrant thereof, are devised by '
            'men out of blind zeal, or upon any pretense of good intention.',
           2:
-           "II. These good works, done in obedience to God's commandments, are "
+           "These good works, done in obedience to God's commandments, are "
            'the fruits and evidences of a true and lively faith: and by them '
            'believers manifest their thankfulness, strengthen their assurance, '
            'edify their brethren, adorn the profession of the gospel, stop the '
@@ -762,7 +762,7 @@ def get_confession(first, chap, start, stop):
            'sinful, and displeasing unto God.'},
      17: {
           0:
-           'Chapter XVII. Of The Perseverance of the Saints',
+           'Chapter 17. Of The Perseverance of the Saints',
           1:
            'They whom God hath accepted in his Beloved, effectually called '
            'and sanctified by his Spirit, can neither totally nor finally fall '
@@ -787,7 +787,7 @@ def get_confession(first, chap, start, stop):
            'others, and bring temporal judgments upon themselves.'},
      18: {
           0:
-           'Chapter XVIII. Of the Assurance of Grace and Salvation',
+           'Chapter 18. Of the Assurance of Grace and Salvation',
           1:
            'Although hypocrites, and other unregenerate men, may vainly '
            'deceive themselves with false hopes and carnal presumptions: of '
@@ -833,7 +833,7 @@ def get_confession(first, chap, start, stop):
            'they are supported from utter despair.'},
      19: {
           0:
-           'Chapter XIX. Of the Law of God',
+           'Chapter 19. Of the Law of God',
           1:
            'God gave to Adam a law, as a covenant of works, by which he '
            'bound him and all his posterity to personal, entire, exact, and '
@@ -893,7 +893,7 @@ def get_confession(first, chap, start, stop):
            'to be done.'},
      20: {
           0:
-           'Chapter XX. Of Christian Liberty, and Liberty of Conscience',
+           'Chapter 20. Of Christian Liberty, and Liberty of Conscience',
           1:
            'The liberty which Christ hath purchased for believers under the '
            'gospel consists in their freedom from the guilt of sin, the '
@@ -942,7 +942,7 @@ def get_confession(first, chap, start, stop):
            'censures of the Church, and by the power of the civil magistrate.'},
      21: {
           0:
-           'Chapter XXI. Of Religious Worship and the Sabbath-day',
+           'Chapter 21. Of Religious Worship and the Sabbath-day',
           1:
            'The light of nature showeth that there is a God, who hath '
            'lordship and sovereignty over all; is good, and doeth good unto '
@@ -1002,16 +1002,16 @@ def get_confession(first, chap, start, stop):
            'Day, and is to be continued to the end of the world as the '
            'Christian Sabbath.',
           8:
-           'This Sabbath is to be kept holy unto the Lord when men, after'
-           ' a due preparing of their hearts, and ordering of their common affairs'
-           ' beforehand, do not only observe an holy rest all the day from their'
-           ' own works, words, and thoughts about their worldly employments and'
-           ' recreations, but also are taken up the whole time in the public and'
-           ' private exercises of His worship, and in the duties of necessity and'
-           ' mercy.'},
+           'This Sabbath is to be kept holy unto the Lord when men, after '
+           'a due preparing of their hearts, and ordering of their common affairs '
+           'beforehand, do not only observe an holy rest all the day from their '
+           'own works, words, and thoughts about their worldly employments and '
+           'recreations, but also are taken up the whole time in the public and '
+           'private exercises of His worship, and in the duties of necessity and '
+           'mercy.'},
      22: {
          0:
-          'Chapter XXII. Of Lawful Oaths and Vows',
+          'Chapter 22. Of Lawful Oaths and Vows',
          1:
            'A lawful oath is a part of religious worship, wherein upon just '
            'occasion, the person swearing solemnly calleth God to witness what '
@@ -1062,7 +1062,7 @@ def get_confession(first, chap, start, stop):
            'entangle himself.'},
      23: {
           0:
-           'Chapter XXIII. Of the Civil Magistrate',
+           'Chapter 23. Of the Civil Magistrate',
           1:
            'God, the Supreme Lord and King of all the world, hath ordained '
            'civil magistrates to be under him over the people, for his own '
@@ -1102,7 +1102,7 @@ def get_confession(first, chap, start, stop):
            'pretense whatsoever.'},
      24: {
           0:
-           'Chapter XXIV. Of Marriage and Divorce',
+           'Chapter 24. Of Marriage and Divorce',
           1:
            'Marriage is to be between one man and one woman: neither is it '
            'lawful for any man to have more than one wife, nor for any woman '
@@ -1145,7 +1145,7 @@ def get_confession(first, chap, start, stop):
            'own wills and discretion in their own case.'},
      25: {
           0:
-           'Chapter XXV. Of the Church',
+           'Chapter 25. Of the Church',
           1:
            'The catholic or universal Church, which is invisible, consists '
            'of the whole number of the elect, that have been, are, or shall be '
@@ -1183,7 +1183,7 @@ def get_confession(first, chap, start, stop):
            'called God.'},
      26: {
           0:
-           'Chapter XXVI. Of the Communion of the Saints',
+           'Chapter 26. Of the Communion of the Saints',
           1:
            'All saints that are united to Jesus Christ their head, by his '
            'Spirit and by faith, have fellowship with him in his graces, '
@@ -1209,7 +1209,7 @@ def get_confession(first, chap, start, stop):
            'property which each man hath in his goods and possessions.'},
      27: {
           0:
-           'Chapter XXVII. Of the Sacraments',
+           'Chapter 27. Of the Sacraments',
           1:
            'Sacraments are holy signs and seals of the covenant of grace, '
            'immediately instituted by God, to represent Christ and his '
@@ -1241,7 +1241,7 @@ def get_confession(first, chap, start, stop):
            'same with those of the New.'},
      28: {
           0:
-           'Chapter XXVIII. Of Baptism',
+           'Chapter 28. Of Baptism',
           1:
            'Baptism is a sacrament of the New Testament, ordained by Jesus '
            'Christ, not only for the solemn admission of the party baptized '
@@ -1281,7 +1281,7 @@ def get_confession(first, chap, start, stop):
            'any person.'},
      29: {
           0:
-           "Chapter XXIX. Of the Lord's Supper",
+           "Chapter 29. Of the Lord's Supper",
           1:
            'Our Lord Jesus, in the night wherein he was betrayed, '
            "instituted the sacrament of his body and blood, called the Lord's "
@@ -1341,17 +1341,17 @@ def get_confession(first, chap, start, stop):
            'present to the faith of believers in that ordinance, as the '
            'elements themselves are to their outward senses.',
           8:
-           "Although ignorant and wicked men receive the outward elements"
-           " in this sacrament; yet, they receive not the thing signified"
-           " thereby; but, by their unworthy coming thereunto, are guilty of the"
-           " body and blood of the Lord, to their own damnation. Wherefore, all"
-           " ignorant and ungodly persons, as they are unfit to enjoy communion"
-           " with Him, so are they unworthy of the Lord's table; and cannot,"
-           " without great sin against Christ, while they remain such, partake"
-           " of these holy mysteries, or be admitted thereunto."},
+           "Although ignorant and wicked men receive the outward elements "
+           "in this sacrament; yet, they receive not the thing signified "
+           "thereby; but, by their unworthy coming thereunto, are guilty of the "
+           "body and blood of the Lord, to their own damnation. Wherefore, all "
+           "ignorant and ungodly persons, as they are unfit to enjoy communion "
+           "with Him, so are they unworthy of the Lord's table; and cannot, "
+           "without great sin against Christ, while they remain such, partake "
+           "of these holy mysteries, or be admitted thereunto."},
      30: {
           0:
-           'Chapter XXX. Of Church Censures',
+           'Chapter 30. Of Church Censures',
           1:
            'The Lord Jesus, as king and head of his Church, hath therein '
            'appointed a government in the hand of Church officers, distinct '
@@ -1380,7 +1380,7 @@ def get_confession(first, chap, start, stop):
            'person.'},
      31: {
           0:
-           'Chapter XXXI. Of Synods and Councils',
+           'Chapter 31. Of Synods and Councils',
           1:
            'For the better government and further edification of the '
            'Church, there ought to be such assemblies as are commonly called '
@@ -1417,7 +1417,7 @@ def get_confession(first, chap, start, stop):
            'civil magistrate.'},
      32: {
           0:
-           'Chapter XXXII. Of the State of Man After Death, and of the '
+           'Chapter 32. Of the State of Man After Death, and of the '
            'Resurrection of the Dead',
           1:
            'The bodies of men, after death, return to dust, and see '
@@ -1441,7 +1441,7 @@ def get_confession(first, chap, start, stop):
            'honor, and be made conformable to his own glorious body.'},
      33: {
           0:
-           'Chapter XXXIII. Of the Last Judgment.',
+           'Chapter 33. Of the Last Judgment.',
           1:
            'God hath appointed a day, wherein he will judge the world in '
            'righteousness by Jesus Christ, to whom all power and judgment is '
@@ -3567,7 +3567,7 @@ def error_response(doc=None, error=None):
 
 def handle_session_end_request():
     card_title = "Session Ended"
-    speech_output = "Thank you for studying with Reformed Bot."
+    speech_output = "Thank you for studying with Reformed bot."
     # Setting this to true ends the session and exits the skill.
     should_end_session = True
     return build_response({}, build_speechlet_response(
@@ -3580,32 +3580,44 @@ def validate_address(intent, doc):
     if doc == "wcf":
         chap = None
         if 'value' in intent['slots']['Chapter']:
-            chap = int(intent['slots']['Chapter']['value'])
-            if not (1 <= chap <= 33):
-                return -1, -1, -1, -1, "Error Code 01"
+            try:
+                chap = int(intent['slots']['Chapter']['value'])
+                if not (1 <= chap <= 33):
+                    return -1, -1, -1, -1, "Error Code 01"
+            except:
+                pass
                 
         q1 = None
         if 'value' in intent['slots']['QueryUno']:
-            q1 = int(intent['slots']['QueryUno']['value'])
-            if not (1 <= q1 <= limits[chap]):
-                return -1, -1, -1, -1, "Error Code 02"
+            try:
+                q1 = int(intent['slots']['QueryUno']['value'])
+                if not (1 <= q1 <= limits[chap]):
+                    return -1, -1, -1, -1, "Error Code 02"
+            except:
+                pass
         
         if chap and 'value' in intent['slots']['Paragraph']:
-            par = int(intent['slots']['Paragraph']['value'])
-            if not (1 <= par <= limits[chap]):
-                return -1, -1, -1, -1, "Error Code 03"
-            return chap, par, par, limits[chap], "No Error"
+            try:
+                par = int(intent['slots']['Paragraph']['value'])
+                if not (1 <= par <= limits[chap]):
+                    return -1, -1, -1, -1, "Error Code 03"
+                return chap, par, par, limits[chap], "No Error"
+            except:
+                pass
             
         
         if chap and q1 and 'value' in intent['slots']['QueryDos']:
-            q2 = int(intent['slots']['QueryDos']['value'])
-            if not (1 <= q2 <= limits[chap]):
-                return -1, -1, -1, -1, "Error Code 04"
-            if q2 < q1:
-                q2 = q1
-            return chap, q1, q2, limits[chap], "No Error"
+            try:
+                q2 = int(intent['slots']['QueryDos']['value'])
+                if not (1 <= q2 <= limits[chap]):
+                    return -1, -1, -1, -1, "Error Code 04"
+                if q2 < q1:
+                    q2 = q1
+                return chap, q1, q2, limits[chap], "No Error"
+            except:
+                pass
             
-        if 'value' in intent['slots']['Finisher']:
+        if chap and 'value' in intent['slots']['Finisher']:
             if q1:
                 return chap, q1, limits[chap], limits[chap], "No Error"
                 
@@ -3689,11 +3701,11 @@ def get_ducment(intent, session):
     
     if 'value' in intent['slots']['Document']: # Document specified
         if intent['slots']['Document']['value'].lower() in ("westminster confession of faith", 
-                                            "confession of faith", "wcf", "confession"):
+                                            "confession of faith", "wcf", "confession", "w. c. f."):
             doc = 'wcf'
             
         elif intent['slots']['Document']['value'].lower() in ("westminster shorter catechism", 
-                                            "shorter catechism", "catechism", "wsc"):
+                                            "shorter catechism", "catechism", "wsc", "w. s. c"):
             doc = 'wsc'
             
         else:
@@ -3745,7 +3757,7 @@ def get_westminster_ref(intent, session):
         session_attributes.update({'End':end})
         session_attributes.update({'Forward':True})
     elif session.get('attributes', {}) and 'Start' in session.get('attributes', {}):
-        if 'value' not in intent['slots']['Chapter']:
+        if 'value' in intent['slots']['Chapter']:
             chapter = session['attributes']['Chapter']
         start = session['attributes']['Start']
         stop = session['attributes']['Stop']
@@ -3753,8 +3765,8 @@ def get_westminster_ref(intent, session):
         fwd = session['attributes']['Forward']
         context = intent['slots']['Context']['value'].lower()
         # no
-        if context == "no":
-            handle_session_end_request()
+        if context in ("no", "no thanks", "no thank you"):
+            return handle_session_end_request()
         # previous | back | last one
         elif context in ("back", "previous", "last one"):
             fwd = False
@@ -3803,7 +3815,7 @@ def get_westminster_ref(intent, session):
         should_end_session = True
     else:
         speech_output += " Would you like to hear more?"
-        reprompt_text = "Would you like to hear more?."
+        reprompt_text = "Would you like to hear more?"
         should_end_session = False
 
     # Setting reprompt_text to None signifies that we do not want to reprompt
